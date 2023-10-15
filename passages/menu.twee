@@ -1,0 +1,58 @@
+:: Menu
+{embed passage: 'menu-variables'}
+<corner>
+
+[if isStart]
+Future of Drawing
+[else]
+[[Future of Drawing->Start]]
+[continue]
+
+[if isBrief]
+Brief
+[else]
+[[Brief->brief]]
+[continue]
+
+[if isDeliverables]
+Deliverables
+[else]
+[[Deliverables]]
+[continue]
+
+[if isCompetencies]
+Competencies
+[else]
+[[Competencies]]
+[continue]
+
+[if isPlanning]
+Planning
+[else]
+[[Planning]]
+[continue]
+
+[if isEvaluation]
+Evaluation
+[else]
+[[Evaluation]]
+[continue]
+
+<!-- [if isBibliography] -->
+<!-- Bibliography -->
+<!-- [else] -->
+<!-- [[Bibliography]] -->
+<!-- [continue] -->
+
+</corner>
+
+:: menu-variables
+name : passage.name
+isStart : name == 'Start'
+isDeliverables : name == 'Deliverables'
+isCompetencies : name == 'Competencies'
+isPlanning : name == 'Planning'
+isEvaluation : name == 'Evaluation'
+isBibliography : name == 'Bibliography'
+isBrief : name == 'brief' || name == 'brief-project' || name == 'brief-storytelling' || name == 'brief-ai' || name == 'brief-questions' || name == 'brief-play' || name == 'brief-assistants' || name == 'brief-exhibition' || name == 'brief-rules'
+--

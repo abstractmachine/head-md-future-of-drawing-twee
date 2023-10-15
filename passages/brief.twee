@@ -1,3 +1,194 @@
-:: Brief
+:: brief
+{embed passage: 'brief-menu'}
 
-<corner>Brief | [[Deliverables]] | [[Competencies]] | [[Planning]] | [[Evaluation]] | [[Bibliography]]</corner>
+In this semester's project, we will be collaborating with Caran d’Ache [[...->brief-project]]
+
+{embed passage: 'Menu'}
+
+:: brief-project
+{embed passage: 'brief-menu'}
+
+In this semester's project, we will be collaborating with Caran d’Ache, a renowned Swiss company specializing in a wide range of writing and drawing instruments{reveal link: ' ...', passage: 'brief-project-1'}
+
+{embed passage: 'Menu'}
+
+:: brief-project-1
+. Caran d’Ache instruments provide invaluable support to designers, illustrators, artists, and novices, facilitating the realization of their creative endeavors.
+
+[[...->brief-storytelling]]
+
+:: brief-storytelling
+{embed passage: 'brief-menu'}
+
+Although the world of Caran d’Ache may initially appear distinct from digital design practices{reveal link: ' ...', passage: 'brief-storytelling-1'}
+
+{embed passage: 'Menu'}
+
+:: brief-storytelling-1
+, a closer examination reveals a significant connection{reveal link: ' ...', passage: 'brief-storytelling-2'}
+
+:: brief-storytelling-2
+. Writing and storytelling serve as foundational elements in digital practices, whether it involves composing algorithms to generate poetry or experimenting with drawing machines.
+
+{embed Unsplash image: 'https://unsplash.com/photos/n-qw-WvbHVc', alt: 'desert'}
+{embed Unsplash image: 'https://unsplash.com/photos/Na0BbqKbfAo', alt: 'moon'}
+
+[[...->brief-ai]]
+
+:: brief-ai
+{embed passage: 'brief-menu'}
+
+More recently, AI algorithms have been employed to generate drawings and visuals by utilizing prompts with generative models. These models hold the potential for a future where AI serves as a co-creator, assisting artists in their creative process. While these prospects are promising, they may eliminate the tactile experience associated with drawing activities (such as tracing, coloring, exploring various hues, blending, etc.). Additionally, they present a future in which these collaborators may adopt conventional forms, resembling simple chatbots that engage through text-based dialogue.
+
+[[...->brief-questions]]
+
+{embed passage: 'Menu'}
+
+:: brief-questions
+{embed passage: 'brief-menu'}
+
+Throughout this project, we aim to explore the following questions:
+1. {reveal link: ' ...', passage: 'brief-questions-1'}
+2. {reveal link: ' ...', passage: 'brief-questions-2'}
+3. {reveal link: ' ...', passage: 'brief-questions-3'}
+
+[[...->brief-play]]
+
+{embed passage: 'Menu'}
+
+:: brief-questions-1
+In what forms and with what characteristics could an AI serve as an artist's assistant?
+
+:: brief-questions-2
+What novel and engaging interactions could we envision in this context?
+
+:: brief-questions-3
+How might we transcend the conventional metaphor of AI as a collaborator?
+
+{embed passage: 'Menu'}
+
+:: brief-play
+{embed passage: 'brief-menu'}
+
+*What we will create:*
+
+In this workshop, our aim is to craft playful AI creative assistants. The element of playfulness will serve as a catalyst for inspiration, encouraging individuals to broaden their artistic horizons. Leveraging the rich offerings of Caran d’Ache's tools, we will conceive a new breed of interactive objects. Our primary focus will be on designing interactives tailored for beginners—those who may not consider themselves artists or professionals and may benefit from additional guidance in their creative journey. Such individuals often require a lighthearted approach to ease into creative activities.
+
+[[...->brief-assistants]]
+
+{embed passage: 'Menu'}
+
+:: brief-assistants
+{embed passage: 'brief-menu'}
+
+These AI creative assistants will, for instance, introduce fresh and imaginative exercises, or encourage people to experiment with novel techniques and unexpected color palettes. The final outcome will be an assortment of AI collaborators designed for creative enthusiasts. For example, one AI collaborator might transform sounds into vibrant hues, while another could suggest innovative gestures. Another might prompt you to explore unfamiliar lines, and yet another could turn the act of drawing into an engaging game. Et cætera. Et cætera. Et cætera.
+
+[[...->brief-exhibition]]
+
+{embed passage: 'Menu'}
+
+:: brief-exhibition
+{embed passage: 'brief-menu'}
+
+Selected projects will be exhibited at Plateforme 10 in Lausanne in May 2024. The selection will be made by the Caran d’Ache team during the final jury in January 2024.
+
+[[...->brief-rules]]
+
+{embed passage: 'Menu'}
+
+:: brief-rules
+{embed passage: 'brief-menu'}
+
+Some key rules to follow:
+1. {reveal link: ' ...', passage: 'brief-rules-1'}
+2. {reveal link: ' ...', passage: 'brief-rules-2'}
+3. {reveal link: ' ...', passage: 'brief-rules-3'}
+
+{embed passage: 'Menu'}
+
+:: brief-rules-1
+Your AI collaborator must be interactive and mix a digital interface with a physical object. Note that the scale of your object can vary according to your concept. 
+
+:: brief-rules-2
+Your object has to showcase a simple yet playful interaction. Your object must be thought and conceived to be showcased in the context of an exhibition and easily handled by the public. 
+
+:: brief-rules-3
+You must participate actively in class discussion, visualize and test your ideas with mock-ups, scenarios, etc…
+
+:: brief-menu
+{embed passage: 'brief-variables'}
+
+[if isBriefBrief; append]
+**Brief**
+[else; append]
+[[Brief->brief]]
+[continue; append]
+ | 
+[if isBriefProject; append]
+**Project**
+[else; append]
+[[Project->brief-project]]
+[continue; append]
+ | 
+[if isBriefStorytelling; append]
+**Storytelling**
+[else; append]
+[[Storytelling->brief-storytelling]]
+[continue; append]
+ | 
+[if isBriefAi; append]
+**AI**
+[else; append]
+[[AI->brief-ai]]
+[continue; append]
+ | 
+[if isBriefQuestions; append]
+**Questions**
+[else; append]
+[[Questions->brief-questions]]
+[continue; append]
+ | 
+[if isBriefPlay; append]
+**Play**
+[else; append]
+[[Play->brief-play]]
+[continue; append]
+ | 
+[if isBriefAssistants; append]
+**Asisstants**
+[else; append]
+[[Assistants->brief-assistants]]
+[continue; append]
+ | 
+[if isBriefExhibition; append]
+**Exhibition**
+[else; append]
+[[Exhibition->brief-exhibition]]
+[continue; append]
+ | 
+[if isBriefRules; append]
+**Rules**
+[else; append]
+[[Rules->brief-rules]]
+[continue; append]
+
+
+:: brief-variables
+isBriefBrief : passage.name == 'brief'
+isBriefProject : passage.name == 'brief-project'
+isBriefStorytelling : passage.name == 'brief-storytelling'
+isBriefAi : passage.name == 'brief-ai'
+isBriefQuestions : passage.name == 'brief-questions'
+isBriefPlay : passage.name == 'brief-play'
+isBriefAssistants : passage.name == 'brief-assistants'
+isBriefExhibition : passage.name == 'brief-exhibition'
+isBriefRules : passage.name == 'brief-rules'
+--
+
+:: brief-css-align-start
+[CSS]
+#page article {
+	align-items: center;
+	align-items: start;
+}
+[continued]

@@ -1,6 +1,4 @@
 :: Planning
-**Planning**
-
 {embed passage: 'Tableau'}
 
 :: Phase-1
@@ -18,61 +16,100 @@
 :: Phase-5
 {embed passage: 'Tableau'}
 
-:: Tableau
-
-<table><tr><td>
-[if passage.name == 'Phase-1']
-Phase 1
-[else]
+:: Phase-1-content
+<tr>
+<td>
+[if passage.name != 'Phase-1']
 [[Phase 1->Phase-1]]
+[else]
+Phase 1
 [continue]
-</td><td><code>10.16 > 10.30</code></td><td>Research and experimentation</td></tr></table>
+</td>
+<td><code>10.16 > 10.30</code></td>
+<td>Research and experimentation</td>
+</tr>
 [if passage.name == 'Phase-1']
-During this phase, we will focus on understanding the Caran d'Ache world, its audience and start mapping our first ideas and research. You will apply the methodologies taught in class. We will start prototyping and pitch our ideas. 
+<tr>
+<td colspan="3">During this phase, we will focus on understanding the Caran d'Ache world, its audience and start mapping our first ideas and research. You will apply the methodologies taught in class. We will start prototyping and pitch our ideas.</td>
+</tr>
 [continue]
 
-<table><tr><td>
+:: Phase-2-content
+<tr>
+<td>
 [if passage.name == 'Phase-2']
 Phase 2
 [else]
 [[Phase 2->Phase-2]]
 [continue]
-</td><td><code>10.30 > 11.04</code></td><td>First intentions</td></tr></table>
+</td>
+<td><code>10.30 > 11.04</code></td><td>First intentions</td></tr>
 [if passage.name == 'Phase-2']
-In this phase, we will define some first intentions, user scenarios and possible interaction. We will mainly create paper mock-ups to test and pitch our first ideas. Technical classes will come later. 
+<tr>
+<td colspan="3">In this phase, we will define some first intentions, user scenarios and possible interaction. We will mainly create paper mock-ups to test and pitch our first ideas. Technical classes will come later. </td>
+</tr>
 [continue]
 
-<table><tr><td>
+:: Phase-3-content
+<tr>
+<td>
 [if passage.name == 'Phase-3']
 Phase 3
 [else]
 [[Phase 3->Phase-3]]
 [continue]
-</td><td><code>11.13 > 11.16</code></td><td>Concept</td></tr></table>
+</td>
+<td><code>11.13 > 11.16</code></td><td>Concept</td>
+</tr>
 [if passage.name == 'Phase-3']
-This phase will focus on visualizing your project intention (mock-up, scenario, drawing) and creating a presentation for our mid-crit with Caran d’Ache
+<tr>
+<td colspan="3">This phase will focus on visualizing your project intention (mock-up, scenario, drawing) and creating a presentation for our mid-crit with Caran d’Ache.</td>
+</tr>
 [continue]
 
-<table><tr><td>
+:: Phase-4-content
+<tr>
+<td>
 [if passage.name == 'Phase-4']
 Phase 4
 [else]
 [[Phase 4->Phase-4]]
 [continue]
-</td><td><code>11.27 > 12.15</code></td><td>Prototyping</td></tr></table>
+</td>
+<td><code>11.27 > 12.15</code></td><td>Prototyping</td>
+</tr>
 [if passage.name == 'Phase-4']
-During this phase, you will focus on prototyping your idea (3D, electronics…). You will keep iterating and think about the final details of your interactive object. You will also test your prototype during the test day.
+<tr>
+<td colspan="3">During this phase, you will focus on prototyping your idea (3D, electronics…). You will keep iterating and think about the final details of your interactive object. You will also test your prototype during the test day.</td>
+</tr>
 [continue]
 
-<table><tr><td>
+:: Phase-5-content
+<tr>
+<td>
 [if passage.name == 'Phase-5']
 Phase 5
 [else]
 [[Phase 5->Phase-5]]
 [continue]
-</td><td><code>12.20 > 01.17</code></td><td>Final development & presentation</td></tr></table>
+</td>
+<td><code>12.20 > 01.17</code></td><td>Final development & presentation</td>
+</tr>
 [if passage.name == 'Phase-5']
-In this phase, you will focus on finishing your project and final production. You will also create all the final assets needed for your presentation and final jury with Caran d’Ache.
+<tr>
+<td colspan="3">In this phase, you will focus on finishing your project and final production. You will also create all the final assets needed for your presentation and final jury with Caran d’Ache.</td>
+</tr>
 [continue]
+
+:: Tableau
+### Planning
+
+<table>
+{embed passage: 'Phase-1-content'}
+{embed passage: 'Phase-2-content'}
+{embed passage: 'Phase-3-content'}
+{embed passage: 'Phase-4-content'}
+{embed passage: 'Phase-5-content'}
+</table>
 
 {embed passage: 'Menu'}

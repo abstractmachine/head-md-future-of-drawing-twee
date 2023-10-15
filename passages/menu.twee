@@ -38,6 +38,12 @@ Evaluation
 [[Evaluation]]
 [continue]
 
+[if isInspiration]
+Inspiration
+[else]
+[[Inspiration->inspiration]]
+[continue]
+
 <!-- [if isBibliography] -->
 <!-- Bibliography -->
 <!-- [else] -->
@@ -54,5 +60,6 @@ isCompetencies : name == 'Competencies'
 isPlanning : name == 'Planning'
 isEvaluation : name == 'Evaluation'
 isBibliography : name == 'Bibliography'
-isBrief : name == 'brief' || name == 'brief-project' || name == 'brief-storytelling' || name == 'brief-ai' || name == 'brief-questions' || name == 'brief-play' || name == 'brief-assistants' || name == 'brief-exhibition' || name == 'brief-rules'
+isBrief : name == 'brief' || name == 'brief-project' || name == 'brief-storytelling' || name == 'brief-storytelling-1' || name == 'brief-ai' || name == 'brief-ai-3' || name == 'brief-questions' || name == 'brief-play' || name == 'brief-play-4' || name == 'brief-assistants' || name == 'brief-exhibition' || name == 'brief-rules'
+isInspiration : name == 'inspiration'
 --

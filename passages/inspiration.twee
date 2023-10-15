@@ -1,0 +1,77 @@
+:: inspiration
+{embed passage: 'Menu'}
+
+<inspiration>
+
+- [[Creative Class->inspiration-caran-creative-class]]
+- [[Our Friends Electric->inspiration-superflux-friends]]
+- [[Pharmako AI->inspiration-pharmako-ai]]
+- [[Sasha Stiles->inspiration-sashastiles]]
+
+</inspiration>
+
+
+:: inspiration-sashastiles
+
+<img class='half' src='images/SashaStiles.webp'>
+
+[[Sasha Stiles->https://www.sashastiles.com/]]
+
+{back link, label: '←'}
+
+{embed passage: 'Menu'}
+
+
+:: inspiration-caran-creative-class
+
+{embed YouTube video: 'https://www.youtube.com/watch?v=vGUIsa4te9s'}
+
+[[Creative Class->https://www.carandache.com/ch/en/creative-class]], Caran d'Ache
+
+{back link, label: '←'}
+
+{embed passage: 'Menu'}
+
+
+:: inspiration-pharmako-ai
+
+<img class='twothirds' src='images/PharmakoAItop.webp'>
+
+[[Pharmako AI->https://ignota.org/products/pharmako-ai]], K Allado McDowell
+
+{back link, label: '←'}
+
+{embed passage: 'Menu'}
+
+
+:: inspiration-superflux-friends
+
+{embed YouTube video: 'https://www.youtube.com/watch?v=hbGPuoIrmQY'}
+
+[[Our Friends Electric->https://superflux.in/index.php/work/friends-electric/#]], [[Superflux->https://superflux.in]]
+
+{back link, label: '←'}
+
+{embed passage: 'Menu'}
+
+
+:: inspiration-video
+
+{embed YouTube video: 'https://www.youtube.com/watch?v='}
+
+[[Title->https://]], Name
+
+{back link, label: '←'}
+
+{embed passage: 'Menu'}
+
+
+:: inspiration-image
+
+<img class='twothirds' src='images/'>
+
+[[Title->https://]], Name
+
+{back link, label: '←'}
+
+{embed passage: 'Menu'}

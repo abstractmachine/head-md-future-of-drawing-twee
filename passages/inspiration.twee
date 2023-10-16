@@ -58,7 +58,17 @@
 
 :: inspiration-traite-du-trait
 
-<img class='right half' src='images/traite-du-trait.jpg'>« [[Le trou->inspiration-traite-du-trait-fontana]], dans la toile, comme un point. L’incision, comme un trait. Avec, de l’un à l'autre, toute la distance qui sépare les deux définitions classiques de la ligne (de la *ligne*, non du *trait*) : la première, qu’on trouve chez Alberti, et qui veut qu’une ligne se réduise à une suite ininterrompue de points immobiles, accolés les uns aux autres; et l’autre, qui sera le fait de Léonard de Vinci, lequel l‘assimile au parcours, à la trajectoire décrite par un point en mouvement. »
+<img class='right half' src='images/traite-du-trait.jpg'>
+<ul>
+<li>[[0.Incise->inspiration-traite-du-trait-fontana]]
+<li>1.Pinceau</li>
+<li>2.Contour</li>
+<li>3.Aspect</li>
+<li>4.Géométrie</li>
+<li>5.Expression</li>
+<li>6.Histoires</li>
+<li>00.Brèche</li>
+</ul>
 
 [[Traité du trait->https://damisch.hypotheses.org/expositions/traite-du-trait-1995]] | Hubert Damisch | [[EN->inspiration-traite-du-trait-en]]
 
@@ -70,12 +80,23 @@
 
 [[Traité du trait->https://damisch.hypotheses.org/expositions/traite-du-trait-1995]] | Hubert Damisch | [[EN->inspiration-traite-du-trait-en-fontana]]
 
+[[Index->inspiration-traite-du-trait]]
+
 {embed passage: 'inspiration-menu'}
 
 
 :: inspiration-traite-du-trait-en
 
-<img class='right half' src='images/traite-du-trait.jpg'>“[[The hole->inspiration-traite-du-trait-en-fontana]] in the canvas, like a point. The incision, like a line. With, from one to the other, all the distance which separates the two classic definitions of the line (of the *line*, not of the *line*): the first, which we find in Alberti, and who wants that a line is reduced to an uninterrupted series of immobile points, attached to each other; and the other, which will be the work of Leonardo da Vinci, who likens it to the journey, to the trajectory described by a moving point.”
+<img class='right half' src='images/traite-du-trait.jpg'>
+<ul><li>0.[[Incision->inspiration-traite-du-trait-en-fontana]]
+<li>1.Brush</li>
+<li>2.Contour</li>
+<li>3.Appearance</li>
+<li>4.Geometry</li>
+<li>5.Expression</li>
+<li>6.Stories</li>
+<li>00.Breach</li>
+</ul>
 
 [[Traité du trait->https://damisch.hypotheses.org/expositions/traite-du-trait-1995]] | Hubert Damisch | [[FR->inspiration-traite-du-trait]]
 
@@ -84,9 +105,11 @@
 
 :: inspiration-traite-du-trait-en-fontana
 
-<img class='right half' src='images/lucio-fontana.jpg'>“The hole in the canvas, like a point. The incision, like a line. With, from one to the other, all the distance which separates the two classic definitions of the line (of the *line*, not of the *line*): the first, which we find in Alberti, and who wants that a line is reduced to an uninterrupted series of immobile points, attached to each other; and the other, which will be the work of Leonardo da Vinci, who likens it to the journey, to the trajectory described by a moving point.”
+<img class='right half' src='images/lucio-fontana.jpg'>“The hole in the canvas, like a point. The incision, like a line. With, from one to the other, all the distance which separates the two classic definitions of the line (of the *line*, not of the *stroke*): the first, which we find in Alberti, and who wants that a line is reduced to an uninterrupted series of immobile points, attached to each other; and the other, which will be the work of Leonardo da Vinci, who likens it to the journey, to the trajectory described by a moving point.”
 
 [[Traité du trait->https://damisch.hypotheses.org/expositions/traite-du-trait-1995]] | Hubert Damisch | [[FR->inspiration-traite-du-trait-fontana]]
+
+[[Index->inspiration-traite-du-trait-en]]
 
 {embed passage: 'inspiration-menu'}
 

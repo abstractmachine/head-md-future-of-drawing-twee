@@ -17,7 +17,7 @@ In this semester's project, we will be collaborating with [[Caran d’Ache...->b
 
 [[→->brief-storytelling]]
 
-Caran d’Ache instruments provide invaluable [[support->https://www.carandache.com/ch/en/lamaison.cfm]] to designers, illustrators, artists, and novices, facilitating the realization of their creative endeavors.
+Caran d’Ache instruments provide invaluable [[support->https://www.carandache.com/ch/en/lamaison.cfm]] to designers, illustrators, artists, and novices, facilitating the realization of their [[creative endeavors->https://www.carandache.com/us/en/content/ch/de/inspiration/cours/document_cours.cfm]].
 
 :: brief-storytelling
 {embed passage: 'brief-menu'}
@@ -31,7 +31,7 @@ Caran d’Ache instruments provide invaluable [[support->https://www.carandache.
 
 <img class='right' src='images/Drawing-machine-1-by-Joseph-L-Griffiths.png'>Although the world of Caran d’Ache may initially appear distinct from digital design practices, a closer examination reveals a significant connection.
 
-[[Writing->inspiration-pharmako-ai]] and storytelling serve as foundational elements in digital practices, whether it involves composing algorithms to generate [[poetry->inspiration-sashastiles]] or experimenting with drawing machines.
+[[Writing->inspiration-allison-parrish]] and [[storytelling->inspiration-pharmako-ai]] serve as foundational elements in digital practices, whether it involves [[composing algorithms->inspiration-compass]] to [[generate->inspiration-allison-parrish]] [[poetry->inspiration-sashastiles]] or [[experimenting->inspiration-tracing-the-line]] with [[drawing->inspiration-jurg-lehni]] [[machines->inspiration-harold-cohen]].
 
 {embed passage: 'Menu'}
 
@@ -45,21 +45,25 @@ Caran d’Ache instruments provide invaluable [[support->https://www.carandache.
 {embed passage: 'Menu'}
 
 :: brief-ai-1
-. These models hold the potential for a future where AI serves as a co-creator, assisting artists in their creative process{reveal link: ' ...', passage: 'brief-ai-2'}
+. These models hold the potential for a future where [[AI serves->inspiration-roby]] as [[a co-creator, assisting artists->inspiration-leonie-courbat]] in their creative process [[...->brief-ai-2]]
 
 :: brief-ai-2
-.
+{embed passage: 'brief-menu'}
 
-While these prospects are promising, they may eliminate the tactile experience associated with drawing activities, such as tracing, coloring, exploring various hues, blending, et cætera [[...->brief-ai-3]]
+<image class='right' src='images/omnia-performance.jpg'>More recently, AI algorithms have been employed to generate drawings and visuals by utilizing prompts with generative models. These models hold the potential for a future where AI serves as [[a co-creator, assisting artists->inspiration-leonie-courbat]] in their creative process.
+
+While these prospects are promising, they may eliminate the [[tactile experience->inspiration-land-lines]] associated with [[drawing activities->inspiration-tinguely]], such as [[tracing->inspiration-omnia-per-omnio]], coloring, exploring various hues, blending, [[et cætera->inspiration-traite-du-trait]] [[...->brief-ai-3]]
+
+{embed passage: 'Menu'}
 
 :: brief-ai-3
 {embed passage: 'brief-menu'}
 
-<image class='right' src='images/ELIZA_conversation.png'>More recently, AI algorithms have been employed to generate drawings and visuals by utilizing prompts with generative models. These models hold the potential for a future where AI serves as a co-creator, assisting artists in their creative process.
+<image class='right' src='images/ELIZA_conversation.png'>More recently, AI algorithms have been employed to generate drawings and visuals by utilizing prompts with generative models. These models hold the potential for a future where [[AI serves->inspiration-roby]] as [[a co-creator, assisting artists->inspiration-leonie-courbat]] in their creative process.
 
-While these prospects are promising, they may eliminate the tactile experience associated with drawing activities, such as tracing, coloring, exploring various hues, blending, et cætera.
+While these prospects are promising, they may eliminate the tactile experience associated with drawing activities, such as [[tracing->inspiration-omnia-per-omnio]], coloring, exploring various hues, blending, [[et cætera->inspiration-traite-du-trait]].
 
-Additionally, they present a future in which these collaborators may adopt conventional forms, resembling simple chatbots that engage through text-based dialogue.
+Additionally, they present a future in which these collaborators may adopt conventional forms, resembling simple chatbots that engage through [[text-based dialogue->inspiration-eliza]].
 
 [[→->brief-questions]]
 
@@ -73,23 +77,102 @@ Throughout this project, we aim to explore the following questions:
 2. {reveal link: ' ...', passage: 'brief-questions-2'}
 3. {reveal link: ' ...', passage: 'brief-questions-3'}
 
-[[→->brief-play]]
+[[→->brief-combinations]]
 
 {embed passage: 'Menu'}
 
 :: brief-questions-1
-In what forms and with what characteristics could an AI serve as an artist's assistant?
+In what forms and with what characteristics could an AI serve as an [[artist's assistant->inspiration-margot-herbelin]]?
 
 :: brief-questions-2
-What novel and engaging interactions could we envision in this context?
+What [[novel combinations->brief-combinations]] and engaging interactions could we envision in this context?
 
 :: brief-questions-3
-How might we transcend the conventional metaphor of AI as a collaborator?
+How might we transcend [[the conventional metaphor->inspiration-ai-bias]] of [[AI as a collaborator->https://openai.com/blog/chatgpt-can-now-see-hear-and-speak]]?
+
+:: brief-combinations
+{embed passage: 'brief-menu'}
+
+By novel combinations we mean juxtaposing simple materials in unexpected ways{reveal link: ' ...', passage: 'brief-combinations-1'}
+
+{embed passage: 'Menu'}
+
+:: brief-combinations-1
+. This can also be achieved by taking complex "new" technologies and integrating them with familiar technologies or gestures, and thereby simplify their complexity through the poetics of well-understood mechanisms or materials.
+
+For example [[...->brief-combinations-2]]
+
+:: brief-combinations-2
+{embed passage: 'brief-menu'}
+
+By novel combinations we mean juxtaposing simple materials in unexpected ways. This can also be achieved by taking complex "new" technologies and integrating them with familiar technologies or gestures, and thereby simplify their complexity through the poetics of well-understood mechanisms or materials.
+
+<img class='right' src='images/reading-lantern.png'>For example, by combining:
+- a simple book
+- a lamp
+- a microphone with AI
+
+you get [[storytelling with light->inspiration-reading-lantern]].
+
+[[...->brief-combinations-3]]
+
+{embed passage: 'Menu'}
+
+:: brief-combinations-3
+
+{embed passage: 'brief-menu'}
+
+By novel combinations we mean juxtaposing simple materials in unexpected ways. This can also be achieved by taking complex "new" technologies and integrating them with familiar technologies or gestures, and thereby simplify their complexity through the poetics of well-understood mechanisms or materials.
+
+<img class='right' src='images/teenage-choir.jpg'>For example, by combining:
+- a wooden doll
+- a tilt sensor
+- a midi voice module
+
+you get a [[Teenage Choir->inspiration-teenage-engineering-choir]].
+
+[[...->brief-combinations-4]]
+
+{embed passage: 'Menu'}
+
+:: brief-combinations-4
+
+{embed passage: 'brief-menu'}
+
+By novel combinations we mean juxtaposing simple materials in unexpected ways. This can also be achieved by taking complex "new" technologies and integrating them with familiar technologies or gestures, and thereby simplify their complexity through the poetics of well-understood mechanisms or materials.
+
+<img class='right' src='images/ColourChaser-YuriSuzuki.jpg'>For example, by combining:
+- colored pens
+- a line follower robot (LFR)
+- a tone generator
+
+you get a [[Colour Chaser->inspiration-colour-chaser]].
+
+[[...->brief-combinations-5]]
+
+{embed passage: 'Menu'}
+
+:: brief-combinations-5
+
+{embed passage: 'brief-menu'}
+
+By novel combinations we mean juxtaposing simple materials in unexpected ways. This can also be achieved by taking complex "new" technologies and integrating them with familiar technologies or gestures, and thereby simplify their complexity through the poetics of well-understood mechanisms or materials.
+
+<img class='right' src='images/pluie-a-midi.jpg'>For example, by combining:
+- an iPad
+- a touch-controlled story
+- origami
+
+you get [[augmented origami->inspiration-volumique-pluie]].
+
+[[→->brief-play]]
+
+{embed passage: 'Menu'}
 
 :: brief-play
 {embed passage: 'brief-menu'}
 
-<img class='right' src='images/ColourChaser-YuriSuzuki.jpg'>*What we will create*{reveal link: ' ...', passage: 'brief-play-1'}
+<img class='right' src='images/caran-creative-class.jpg'>*What we will create*{reveal link: ' ...', passage: 'brief-play-1'}
 
 {embed passage: 'Menu'}
 
@@ -109,7 +192,7 @@ In this workshop, our aim is to craft playful AI creative assistants{reveal link
 :: brief-play-4
 {embed passage: 'brief-menu'}
 
-<image class='right' src='images/caran-creative-class.jpg'>*What we will create*:
+<image class='right' src='images/caran-creative-class-1-2-3.jpg'>*What we will create*:
 
 In this workshop, our aim is to craft playful AI creative assistants. The element of playfulness will serve as a catalyst for inspiration, encouraging individuals to broaden their artistic horizons. Leveraging the rich offerings of Caran d’Ache's tools, we will conceive a new breed of interactive objects.
 
@@ -122,14 +205,14 @@ Our primary focus will be on designing interactives [[tailored for beginners->in
 :: brief-assistants
 {embed passage: 'brief-menu'}
 
-These AI creative [[assistants->inspiration-superflux-friends]] will, for instance, introduce fresh and imaginative exercises, or encourage people to experiment with novel techniques and unexpected color palettes{reveal link: '...', passage: 'brief-assistants-1'}
+These AI creative [[assistants->inspiration-superflux-friends]] will, for instance, introduce fresh and imaginative exercises, or [[encourage people to experiment->inspiration-updatables]] with novel techniques and unexpected color palettes{reveal link: '...', passage: 'brief-assistants-1'}
 
 {embed passage: 'Menu'}
 
 :: brief-assistants-1
 .
 
-The final outcome will be an assortment of [[AI collaborators->inspiration-pharmako-ai]] designed for creative enthusiasts{reveal link: ' ...', passage: 'brief-assistants-2'}
+The final outcome will be an assortment of [[AI collaborators->inspiration-last-pencil]] designed for creative enthusiasts{reveal link: ' ...', passage: 'brief-assistants-2'}
 
 :: brief-assistants-2
 .
@@ -139,16 +222,14 @@ For example, one AI collaborator might transform sounds into vibrant hues, while
 :: brief-assistants-3
 .
 
-Another might prompt you to explore unfamiliar lines, and yet another could turn the act of drawing into an engaging game{reveal link: ' ...', passage: 'brief-assistants-4'}
+Another might prompt you to explore unfamiliar lines, and yet another could turn the [[act of drawing->inspiration-looom]] into an engaging game{reveal link: ' ...', passage: 'brief-assistants-4'}
 
 :: brief-assistants-4
 .
 
 [[→->brief-exhibition]]
 
-Et cætera. Et cætera. Et cætera.
-
-{embed passage: 'Menu'}
+Et cætera. Et cætera. [[Et cætera->inspiration]].
 
 :: brief-exhibition
 {embed passage: 'brief-menu'}
@@ -166,16 +247,24 @@ Some key rules to follow:
 1. {reveal link: ' ...', passage: 'brief-rules-1'}
 2. {reveal link: ' ...', passage: 'brief-rules-2'}
 3. {reveal link: ' ...', passage: 'brief-rules-3'}
+4. {reveal link: ' ...', passage: 'brief-rules-4'}
+5. {reveal link: ' ...', passage: 'brief-rules-5'}
 
 {embed passage: 'Menu'}
 
 :: brief-rules-1
-Your AI collaborator must be interactive and mix a digital interface with a physical object. Note that the scale of your object can vary according to your concept. 
+Your AI collaborator must be interactive and [[mix->inspiration-z-land]] a digital interface with a physical object. Note that the scale of your object can vary according to your concept. 
 
 :: brief-rules-2
-Your object has to showcase a simple yet playful interaction. Your object must be thought and conceived to be showcased in the context of an exhibition and easily handled by the public. 
+Your concept must consider [[the target audience->brief-play]] given in the brief. 
 
 :: brief-rules-3
+Your object has to showcase a simple yet playful interaction. Your object must be thought and conceived to be showcased in the context of an exhibition and easily handled by the public. 
+
+:: brief-rules-4
+Reduce the number of ingredients (materials, technology, gestures, et cætera) to their strict minimum. It is the novelty of the combinations and not their number that makes for an engaging experience.
+
+:: brief-rules-5
 You must participate actively in class discussion, visualize and test your ideas with mock-ups, scenarios, etc…
 
 :: brief-menu
@@ -183,16 +272,10 @@ You must participate actively in class discussion, visualize and test your ideas
 
 <brief-menu>
 
-[if isBriefBrief; append]
-Brief
-[else; append]
-[[Brief->brief]]
-[continue; append]
- | 
-[if isBriefProject; append]
+[if isBriefProject || isBriefBrief; append]
 Project
 [else; append]
-[[Project->brief-project]]
+[[Project->brief]]
 [continue; append]
  | 
 [if isBriefStorytelling; append]
@@ -213,6 +296,12 @@ Questions
 [[Questions->brief-questions]]
 [continue; append]
  | 
+[if isBriefCombinations; append]
+Combination
+[else; append]
+[[Combination->brief-combinations]]
+[continue; append]
+ | 
 [if isBriefPlay; append]
 Play
 [else; append]
@@ -220,15 +309,15 @@ Play
 [continue; append]
  | 
 [if isBriefAssistants; append]
-Asisstants
+Asisstant
 [else; append]
-[[Assistants->brief-assistants]]
+[[Assistant->brief-assistants]]
 [continue; append]
  | 
 [if isBriefExhibition; append]
-Exhibition
+Exhibit
 [else; append]
-[[Exhibition->brief-exhibition]]
+[[Exhibit->brief-exhibition]]
 [continue; append]
  | 
 [if isBriefRules; append]
@@ -243,8 +332,9 @@ Rules
 isBriefBrief : passage.name == 'brief'
 isBriefProject : passage.name == 'brief-project'
 isBriefStorytelling : passage.name == 'brief-storytelling' || passage.name == 'brief-storytelling-1'
-isBriefAi : passage.name == 'brief-ai' || passage.name == 'brief-ai-3'
+isBriefAi : passage.name == 'brief-ai' || passage.name == 'brief-ai-2' || passage.name == 'brief-ai-3'
 isBriefQuestions : passage.name == 'brief-questions'
+isBriefCombinations : passage.name == 'brief-combinations' || passage.name == 'brief-combinations-1' || passage.name == 'brief-combinations-2' || passage.name == 'brief-combinations-3' || passage.name == 'brief-combinations-4' || passage.name == 'brief-combinations-5'
 isBriefPlay : passage.name == 'brief-play' || passage.name == 'brief-play-4'
 isBriefAssistants : passage.name == 'brief-assistants'
 isBriefExhibition : passage.name == 'brief-exhibition'

@@ -139,8 +139,8 @@ table tbody td p {
 	z-index: 1000;
 	font-size: 0.9em;
 	position: absolute;
-    bottom: 2em;
-    left: 0%;
+	bottom: 2em;
+	left: 0%;
 	/* transform: translateY(2.5em); */
 	color: black;
 	mix-blend-mode: difference;
@@ -191,12 +191,12 @@ table tbody td p {
 	content: " | ";
 	color: var(--light-gray);
 	font-weight: normal;
-    display: inline-block;
-    width: inherit;
-    margin-left: 0em;
+	display: inline-block;
+	width: inherit;
+	margin-left: 0em;
 	margin-right: 0.25em;
-    font-size: inherit;
-    transform: none;
+	font-size: inherit;
+	transform: none;
 }
 
 #page inspiration ul li:first-of-type::before {
@@ -211,4 +211,15 @@ brief-menu {
 
 brief-menu a {
 	font-weight: 400 !important;
+}
+
+div.upside-down p
+{
+	text-align: end;
+	transform: rotate(180deg);
+			/* -moz-transform: scale(-1, 1);
+			-webkit-transform: scale(-1, 1);
+			-o-transform: scale(-1, 1);
+			-ms-transform: scale(-1, 1);
+			transform: scale(-1, 1); */
 }

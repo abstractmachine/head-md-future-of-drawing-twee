@@ -60,6 +60,6 @@ isCompetencies : name == 'Competencies'
 isPlanning : name == 'Planning'
 isEvaluation : name == 'Evaluation'
 isBibliography : name == 'Bibliography'
-isBrief : name == 'brief' || name == 'brief-project' || name == 'brief-storytelling' || name == 'brief-storytelling-1' || name == 'brief-ai' || name == 'brief-ai-3' || name == 'brief-questions' || name == 'brief-play' || name == 'brief-play-4' || name == 'brief-assistants' || name == 'brief-exhibition' || name == 'brief-rules'
 isInspiration : name == 'inspiration'
+isBrief : name == 'brief' || name == 'brief-project' || name == 'brief-storytelling' || name == 'brief-storytelling-1' || name == 'brief-ai' || name == 'brief-ai-2' || name == 'brief-ai-3' || name == 'brief-questions' || name == 'brief-play' || name == 'brief-play-4' || name == 'brief-assistants' || name == 'brief-exhibition' || name == 'brief-rules' || name == 'brief-combinations' || name == 'brief-combinations-1' || name == 'brief-combinations-2' || name == 'brief-combinations-3' || name == 'brief-combinations-4' || name == 'brief-combinations-5'
 --

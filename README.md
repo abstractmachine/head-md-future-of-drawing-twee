@@ -9,7 +9,7 @@ This is our Twee (a.k.a. Twine) presentation shown in the first day of class.
 ---
 
 ### Play This Presentation
-If you just want to play this presentation without changing anything, you can download the [latest release](https://github.com/abstractmachine/drawing-futures/releases/latest/) or from a private link (contact me) on Switch Drive, and open the `index.html` file (`Menu` > `File` > `Open File`) in your local browser.
+If you just want to play this presentation without changing anything, you can download the [latest release](https://github.com/abstractmachine/head-md-future-of-drawing-twee/releases/) or from a private link (contact me) on Switch Drive, and open the `index.html` file (`Menu` > `File` > `Open File`) in your local browser.
 
 ### Local server
 If your browser doesn't want to play nicely with this presentation, open this project folder in VS Code and run the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)'s `Go Live` command (cf. bottom left of your code window).
